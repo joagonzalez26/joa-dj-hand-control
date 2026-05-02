@@ -117,6 +117,7 @@ GitHub: [joagonzalez26](https://github.com/joagonzalez26)
 
 <div align="center">
 
-<img width="1080" height="1350" alt="Blue and White Minimal Modern Simple Typography Art Workshop Instagram Story (Post para Instagram (45))" src="https://github.com/user-attachments/assets/0581e4eb-c510-4744-b459-f0d8520f120e" />
+<img width="1001" height="268" alt="Captura de pantalla 2026-05-02 a la(s) 09 42 23" src="https://github.com/user-attachments/assets/61d538c6-aaa3-45a6-add3-9913445b640d" />
+
 
 </div>
