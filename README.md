@@ -13,9 +13,7 @@
 
 ---
 
-## 📌 Descripción
-
-**Joa DJ Hand Control** es una aplicación en Python que permite controlar música local usando gestos de las manos detectados en tiempo real con la cámara.
+**DJ Hand Control** es una aplicación en Python que permite controlar música local usando gestos de las manos detectados en tiempo real con la cámara.
 
 El proyecto utiliza visión artificial para reconocer la mano, dibujar sus puntos de seguimiento y ejecutar acciones como reproducir, pausar o cambiar de canción.
 
