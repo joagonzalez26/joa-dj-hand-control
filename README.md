@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎧 Joa DJ Hand Control 🖐️
+# 🎧 Joa DJ Hand Control 
 
 ### Controlador de música por gestos usando Python, cámara y visión artificial.
 
