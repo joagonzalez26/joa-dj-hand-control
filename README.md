@@ -23,9 +23,9 @@ El proyecto utiliza visión artificial para reconocer la mano, dibujar sus punto
 
 | Gesto | Acción |
 |---|---|
-| 🖐️ Mano abierta | Reproducir música |
-| ✊ Puño cerrado | Pausar música |
-| ✌️ Dos dedos | Cambiar canción |
+| Mano abierta | Reproducir música |
+| Puño cerrado | Pausar música |
+| Dos dedos | Cambiar canción |
 | `Q` | Cerrar el programa |
 
 ---
