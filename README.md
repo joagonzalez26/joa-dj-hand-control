@@ -19,7 +19,7 @@ El proyecto utiliza visión artificial para reconocer la mano, dibujar sus punto
 
 ---
 
-## 🎮 Gestos disponibles
+## Gestos disponibles
 
 | Gesto | Acción |
 |---|---|
@@ -30,7 +30,7 @@ El proyecto utiliza visión artificial para reconocer la mano, dibujar sus punto
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3.12
 - OpenCV
@@ -40,7 +40,7 @@ El proyecto utiliza visión artificial para reconocer la mano, dibujar sus punto
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 Clonar el repositorio:
 
@@ -64,30 +64,30 @@ Instalar dependencias:
 
 ---
 
-## 🎵 Uso
+## Uso
 
 Agregá tus canciones dentro de la carpeta `music/`.
 
 Formatos admitidos:
 
-- `.mp3`
-- `.wav`
-- `.ogg`
+- `.mp3` 🎵
+- `.wav` 🎵
+- `.ogg` 🎵
 
-Luego ejecutá:
+Luego ejecutás:
 
 `python main.py`
 
 ---
 
-## ⚠️ Importante
+## Importante
 
 Las canciones no están incluidas en el repositorio.  
 Cada usuario debe agregar sus propios archivos de música dentro de la carpeta `music/`.
 
 ---
 
-## ✅ Estado actual
+## Estado actual
 
 - Cámara funcionando.
 - Detección de manos en tiempo real.
@@ -97,7 +97,7 @@ Cada usuario debe agregar sus propios archivos de música dentro de la carpeta `
 
 ---
 
-## 🔮 Próximas mejoras
+## Próximas mejoras
 
 - Control de volumen con la mano.
 - Mejor detección de gestos.
@@ -107,7 +107,7 @@ Cada usuario debe agregar sus propios archivos de música dentro de la carpeta `
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desarrollado por **Joaquín González** como proyecto personal de aprendizaje y portfolio.
 
@@ -117,6 +117,6 @@ GitHub: [joagonzalez26](https://github.com/joagonzalez26)
 
 <div align="center">
 
-### ⭐ Proyecto en desarrollo
+### Proyecto en desarrollo
 
 </div>
