@@ -109,7 +109,7 @@ Cada usuario debe agregar sus propios archivos de música dentro de la carpeta `
 
 ## Autor
 
-Desarrollado por **Joaquín González** como proyecto personal de aprendizaje y portfolio.
+Desarrollado por **Joaquín González** como proyecto personal de portfolio. ¡La magía de if-else en Python!
 
 GitHub: [joagonzalez26](https://github.com/joagonzalez26)
 
